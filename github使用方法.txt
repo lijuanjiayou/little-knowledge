@@ -1,0 +1,9 @@
+1.在github创建一个库repositories;
+2.选择clone or download;
+3.复制地址，然后在文件夹中点击右键，选择git bash;
+4.git clone github地址
+git status
+git add .
+git commit -m "说明”
+git push origin master
+git pull origin master
